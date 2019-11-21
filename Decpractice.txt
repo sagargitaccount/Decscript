@@ -5,11 +5,11 @@ stages {
 stage('build') {
 echo "this is a build stage"
 }
-stage('test:integration-&-quality') {
-echo "this is a integration and quality test"
+stage('test') {
+echo "this is a  test"
 }
-stage('test:functional') {
-echo "this is a functional test"
+stage('Deploy') {
+echo "this is for deploying"
 }
 stage('approval') {
 echo "this is for approval"
