@@ -1,0 +1,18 @@
+pipeline
+{
+agent any
+stages {
+stage('build') {
+echo "this is a build stage"
+}
+stage('test:integration-&-quality') {
+echo "this is a integration and quality test"
+}
+stage('test:functional') {
+echo "this is a functional test"
+}
+stage('approval') {
+echo "this is for approval"
+}
+}
+}
