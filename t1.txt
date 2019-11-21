@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AEE6-0358
+
+ Directory of C:\Users\Sagar\Desktop\Declarative
+
+21-11-2019  07:24    <DIR>          .
+21-11-2019  07:24    <DIR>          ..
+21-11-2019  07:11               296 Decpractice.txt
+21-11-2019  07:24                 0 t1.txt
+               2 File(s)            296 bytes
+               2 Dir(s)  198,434,504,704 bytes free
+
+Making changes
