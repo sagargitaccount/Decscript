@@ -12,7 +12,7 @@ stage('Deploy') {
 echo "this is for deploying"
 }
 stage('approval') {
-echo "this is for approval"
+echo "this is for the approval"
 }
 }
 }
